@@ -1,0 +1,25 @@
+Final Project: 某闯关类手游用户流失预测
+
+1. 毕业设计实验报告.pdf
+	实验报告的pdf版本
+	原版链接：https://docs.google.com/document/d/1SAWG8S0dg8VU2HWopyHFE6PVa_XtjSL7yjNBJIgD2v4/edit?usp=sharing
+
+2. notebooks文件夹
+	包含所有的notebook的ipynb文件。
+	notebook均在google colab上运行。
+
+3. figures文件夹
+	过程中生成的一些图片
+
+4. results文件夹
+	不同版本的result
+
+5. 第一版特征提取.zip
+
+6. 第二版特征提取.zip
+	向吴序同学学习后，新增了一些特征。
+
+如有任何问题请联系我：
+Wang Yujing
+wechat: wyj20000208
+gmail: qywangyj@gmail.com
