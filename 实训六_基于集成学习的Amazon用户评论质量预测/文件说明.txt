@@ -1,0 +1,37 @@
+hw6 基于集成学习的 Amazon 用户评论质量预测
+
+1. 集成学习实验报告.pdf
+	实验报告的pdf版本。
+	原版链接：https://docs.google.com/document/d/17k_-54brwjmh7QLWnxhLwowP4EAh6fGqavScGqcdw1E/edit?usp=sharing
+
+2. 部分特征提取.ipynb
+	部分特征提取的ipynb格式文件。在Google Colab上使用GPU加速完成。
+	除了tfidf外的特征提取基本都在这个文件里。
+
+3. ILoveSklearn.ipynb
+	(对Sklearn真是又爱又恨orz）
+	最终跑各个模型的代码。可以和实验报告一起看。
+
+4. results.csv
+	结果文件。
+
+5. clean.csv (文件太大，没有放进来）
+6. clean_test.csv
+7. bert_clean_train.npy (文件太大，没有放进来）
+8. bert_clean_test.npy
+	提取出的特征文件。
+
+
+其他文件可以不看
+9. failed.ipynb
+	尝试失败的pytorch、keras建神经网络。
+
+10. deadversion1.ipynb
+11. deadversion2.ipynb
+	最开始在本地运行的codes，Bagging、AdaBoost.M1代码最早诞生于此。
+	但是后面bert特征提取遇到了麻烦，就没有继续在本地运行。
+
+如有任何问题请联系我：
+Wang Yujing
+wechat: wyj20000208
+gmail: qywangyj@gmail.com
